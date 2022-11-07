@@ -7,4 +7,7 @@
 ## We can review each individual exercise
 
 ![Gym Exercises](https://i.ibb.co/fxcB5sn/4.png)
+
+## Also get a selection of similar exercises
+
 ![Gym Exercises](https://i.ibb.co/XWkzknH/5.png)
